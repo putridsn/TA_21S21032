@@ -1,4 +1,4 @@
-<img width="899" height="711" alt="image" src="https://github.com/user-attachments/assets/dede0647-0c09-4cc6-9069-00dd4a14d7a2" /># THE IMPACT OF AI-GENERATED CONTENT LABELING ON AI VIRTUAL INFLUENCERS' CONTENT ON CLOTHING PURCHASE INTENTION
+# THE IMPACT OF AI-GENERATED CONTENT LABELING ON AI VIRTUAL INFLUENCERS' CONTENT ON CLOTHING PURCHASE INTENTION
 
 ## ABSTRACT
   The use of Artificial Intelligence (AI) in digital marketing is now widespread, with AI-Generated Virtual Influencers (AIVIs)—lifelike digital personas—gaining popularity, especially in the fashion industry, due to their ability to boost engagement and increase revenue. As AIVI usage grows, social media platforms have introduced AI-Generated Content Labels (AIGL) to ensure transparency. However, such labeling may impact consumer trust and purchase intention.
