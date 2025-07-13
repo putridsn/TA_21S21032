@@ -1,7 +1,7 @@
 # THE IMPACT OF AI-GENERATED CONTENT LABELING ON AI VIRTUAL INFLUENCERS' CONTENT ON CLOTHING PURCHASE INTENTION
 
 ## ABSTRACT
-  The use of Artificial Intelligence (AI) in digital marketing is now widespread, with AI-Generated Virtual Influencers (AIVIs)—lifelike digital personas—gaining popularity, especially in the fashion industry, due to their ability to boost engagement and increase revenue. As AIVI usage grows, social media platforms have introduced AI-Generated Content Labels (AIGL) to ensure transparency. However, such labeling may impact consumer trust and purchase intention.
+  The use of Artificial Intelligence (AI) in digital marketing is now widespread, with AI-Generated Virtual Influencers (AIVIs) — lifelike digital personas—gaining popularity, especially in the fashion industry, due to their ability to boost engagement and increase revenue. As AIVI usage grows, social media platforms have introduced AI-Generated Content Labels (AIGL) to ensure transparency. However, such labeling may impact consumer trust and purchase intention.
   This study examines the effects of AIGL on consumer perception in fashion marketing using AIVIs. It explores the relationship between AIGL (low: “AI-generated content”, high: “creator labelled as AI-generated”), perceived authenticity, and consumer trust, with AIVI facial expression (smiling vs. non-smiling) and platform type (TikTok vs. Pinterest) as moderating factors.
   A quantitative method was used with 205 respondents across Indonesia, and data were analyzed using Python. Findings indicate that AIGL significantly affects authenticity perception, trust, and purchase intention. Additionally, platform type and AIGL levels influence these perceptions in marketing H&M products using AIVIs on social media.
 
@@ -10,7 +10,8 @@
 
 ## Research Framework
 <img width="728" height="417" alt="image" src="https://github.com/user-attachments/assets/c7323842-4b38-423a-a879-7fb06056cd90" />
-This research adapts the research model: PyProcessMacro model 9
+
+This research adapts the research model: PyProcessMacro model 9.
 
 ## Method
 1.	Questionnaire: It includes items assessing respondents’ opinions of marketing content that features AI-Virtual Influencer (AIVI) material, differentiated by platform (TikTok vs. Pinterest), facial expression (smiling vs. non-smiling), and the level of AI-Generated Label (AIGL) applied (low: “AI-generated content” vs. high: “creator labelled as AI-generated”).
@@ -18,6 +19,7 @@ This research adapts the research model: PyProcessMacro model 9
 
 # Hypothesis Testing Result
 <img width="899" height="711" alt="image" src="https://github.com/user-attachments/assets/ef6ee61d-1e02-4a80-bd4b-518197369cfc" />
+
 Description: 4/5 hypotheses in this study were accepted.
 
 ## Conclusion
